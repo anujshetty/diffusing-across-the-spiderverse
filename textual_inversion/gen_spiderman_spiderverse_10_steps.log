@@ -1,0 +1,39 @@
+nohup: ignoring input
+Loading model from models/ldm/text2img-large/model.ckpt
+LatentDiffusion: Running in eps-prediction mode
+DiffusionWrapper has 872.30 M params.
+making attention of type 'vanilla' with 512 in_channels
+Working with z of shape (1, 4, 32, 32) = 4096 dimensions.
+making attention of type 'vanilla' with 512 in_channels
+Sampling:   0%|          | 0/2 [00:00<?, ?it/s]Data shape for DDIM sampling is (8, 4, 32, 32), eta 0.0
+Running DDIM Sampling with 10 timesteps
+
+DDIM Sampler:   0%|          | 0/10 [00:00<?, ?it/s][A
+DDIM Sampler:  10%|█         | 1/10 [00:00<00:06,  1.34it/s][A
+DDIM Sampler:  20%|██        | 2/10 [00:01<00:05,  1.38it/s][A
+DDIM Sampler:  30%|███       | 3/10 [00:02<00:05,  1.39it/s][A
+DDIM Sampler:  40%|████      | 4/10 [00:02<00:04,  1.40it/s][A
+DDIM Sampler:  50%|█████     | 5/10 [00:03<00:03,  1.41it/s][A
+DDIM Sampler:  60%|██████    | 6/10 [00:04<00:02,  1.41it/s][A
+DDIM Sampler:  70%|███████   | 7/10 [00:04<00:02,  1.41it/s][A
+DDIM Sampler:  80%|████████  | 8/10 [00:05<00:01,  1.41it/s][A
+DDIM Sampler:  90%|█████████ | 9/10 [00:06<00:00,  1.41it/s][A
+DDIM Sampler: 100%|██████████| 10/10 [00:07<00:00,  1.41it/s][ADDIM Sampler: 100%|██████████| 10/10 [00:07<00:00,  1.40it/s]
+Sampling:  50%|█████     | 1/2 [00:08<00:08,  8.37s/it]Data shape for DDIM sampling is (8, 4, 32, 32), eta 0.0
+Running DDIM Sampling with 10 timesteps
+
+DDIM Sampler:   0%|          | 0/10 [00:00<?, ?it/s][A
+DDIM Sampler:  10%|█         | 1/10 [00:00<00:06,  1.41it/s][A
+DDIM Sampler:  20%|██        | 2/10 [00:01<00:05,  1.41it/s][A
+DDIM Sampler:  30%|███       | 3/10 [00:02<00:04,  1.41it/s][A
+DDIM Sampler:  40%|████      | 4/10 [00:02<00:04,  1.41it/s][A
+DDIM Sampler:  50%|█████     | 5/10 [00:03<00:03,  1.41it/s][A
+DDIM Sampler:  60%|██████    | 6/10 [00:04<00:02,  1.41it/s][A
+DDIM Sampler:  70%|███████   | 7/10 [00:04<00:02,  1.41it/s][A
+DDIM Sampler:  80%|████████  | 8/10 [00:05<00:01,  1.41it/s][A
+DDIM Sampler:  90%|█████████ | 9/10 [00:06<00:00,  1.41it/s][A
+DDIM Sampler: 100%|██████████| 10/10 [00:07<00:00,  1.41it/s][ADDIM Sampler: 100%|██████████| 10/10 [00:07<00:00,  1.41it/s]
+Sampling: 100%|██████████| 2/2 [00:16<00:00,  8.21s/it]Sampling: 100%|██████████| 2/2 [00:16<00:00,  8.24s/it]
+Your samples are ready and waiting four you here: 
+outputs/txt2img-samples 
+Enjoy.

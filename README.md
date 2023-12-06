@@ -1,5 +1,5 @@
 # diffusing-across-the-spiderverse
-CS 236 (Deep Generative Models) final project
+CS 236 (Deep Generative Models) final project - Anuj Shetty, Huram-Abi Nzia Yotchoum, Daniel Sorvisto (M.S. ICME
 
 This repo was only created for submission and likely requires some tweaks to run as is, as each of the subfolders are different repos that we modified in parallel. 
 
